@@ -1,10 +1,10 @@
 body {
   min-height: 1px;
-  background: #3F72AF;
+  background: #393E46;
 }
 .jumbotron {
   padding-top: 6rem;
-  background-color: #DBE2EF;
+  background-color: #00ADB5;
 }
 
 #about {
@@ -12,10 +12,10 @@ body {
 }
 
 #projects {
-  background-color: #DBE2EF;
+  background-color: #00ADB5;
 }
 footer {
-  background-color: #DBE2EF;
+  background-color: #00ADB5;
 }
 section{
     padding-top: 5rem;
